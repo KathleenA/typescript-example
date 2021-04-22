@@ -1,6 +1,7 @@
 /**************************************************************
 * 1. Change this file to .ts file
 * 2. add missing types to parameters of functions
+*   2.a. combineValues should only accept functions
 * 3. add return types to functions
 *   3.a. write "printResult" with return type "undefined"
 * 4. add function type to combineValues so that only "add" is excepted
